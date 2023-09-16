@@ -1,5 +1,6 @@
 <h1 align="center">Hello there, my name is Dámaso</h1>
 <h3 align="center">I am a Full-Stack Developer from Spain passionated about reaching new levels, meeting new people, countries, technologies and music.</h3>
+<img src="https://files.slack.com/files-pri/T0BFXMWMV-F05SN8TNMRQ/da_gh.png">
 
 - 🔭 I’m currently working on **Whisperfy**
 
