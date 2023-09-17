@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity and Data Analysis**
 
-- 📫 How to reach me **dasktorm@gmail.com** or here in my <a href=https://campsite.bio/damasoarmas>Campsite</a>
+- 📫 How to reach me: **dasktorm@gmail.com** or here in my <a href=https://campsite.bio/damasoarmas>Campsite</a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/damasoarmas](https://www.linkedin.com/in/damasoarmas)
 
