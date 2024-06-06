@@ -3,11 +3,11 @@
 <img src="https://github.com/dasktorm/github-version-control/assets/127236212/69b184c9-3717-4fc5-b564-21dd2668bc39"/>
 
 
-- 🔭 I’m currently working on **Whisperfy**
+- 🔭 I’m currently working on **Konecta, BTO**
 
 - 🌱 I’m currently learning **Cybersecurity and Data Analysis**
 
-- 📫 How to reach me: **dasktorm@gmail.com** or here in my <a href=https://campsite.bio/damasoarmas>Campsite</a>
+- 📫 How to reach me: **damaso@dstormbrand.com** or here in my <a href=https://campsite.bio/damasoarmas>Campsite</a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/damasoarmas](https://www.linkedin.com/in/damasoarmas)
 
