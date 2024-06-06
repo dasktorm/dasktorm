@@ -3,7 +3,7 @@
 <img src="https://github.com/dasktorm/github-version-control/assets/127236212/69b184c9-3717-4fc5-b564-21dd2668bc39"/>
 
 
-- 🔭 I’m currently working on **Konecta, BTO**
+- 🔭 I’m currently working at **Konecta** as Consultant
 
 - 🌱 I’m currently learning **Cybersecurity and Data Analysis**
 
