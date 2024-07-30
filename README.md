@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: **damaso@dstormbrand.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/damasoarmas](https://www.linkedin.com/in/damasoarmas)
-
 - ⚡ Fun fact **I am also a DJ/Producer**
 
 <h3 align="left">Connect with me:</h3>
