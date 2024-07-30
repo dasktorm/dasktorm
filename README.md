@@ -1,6 +1,5 @@
 <h1 align="center">Hello world, my name is Dasky!</h1>
 <h3 align="center">I am a Full-Stack Developer from Spain passionated about reaching new levels, meeting new people, countries, technologies and music.</h3>
-<img src="https://github.com/dasktorm/github-version-control/assets/127236212/69b184c9-3717-4fc5-b564-21dd2668bc39"/>
 
 
 - 🔭 I’m currently working at **Konecta** as Consultant
